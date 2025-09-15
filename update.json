@@ -1,6 +1,6 @@
 {
-  "version": "1.3.48",
-  "download_url": "https://github.com/adrielvargas-sytian/Site-Inspector-Updates/releases/download/v1.3.48/asset-inspector.zip",
+  "version": "1.3.50",
+  "download_url": "https://github.com/adrielvargas-sytian/Site-Inspector-Updates/releases/download/v1.3.50/asset-inspector.zip",
   "tested": "6.6",
   "requires": "6.0",
   "requires_php": "7.4",
