@@ -1,10 +1,10 @@
 {
-  "version": "1.3.61",
-  "download_url": "https://github.com/adrielvargas-sytian/Site-Inspector-Updates/releases/download/v1.3.61/site-inspector.zip",
+  "version": "1.3.64",
+  "download_url": "https://github.com/adrielvargas-sytian/Site-Inspector-Updates/releases/download/v1.3.64/site-inspector.zip",
   "tested": "6.6",
   "requires": "6.0",
   "requires_php": "7.4",
-  "last_updated": "2025-10-01",
+  "last_updated": "2025-12-17",
   "sections": {
     "description": "Site Inspector – forensic-grade admin tools for WordPress.",
     "changelog": "..."
