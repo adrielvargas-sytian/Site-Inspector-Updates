@@ -5,7 +5,7 @@
   "tested": "6.9",
   "requires": "6.0",
   "requires_php": "7.4",
-  "last_updated": "2026-01-02",
+  "last_updated": "2026-01-05",
   "sections": {
     "description": "Site Inspector – forensic-grade admin tools for WordPress.",
     "changelog": {
