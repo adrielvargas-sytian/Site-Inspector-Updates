@@ -12,7 +12,15 @@
       "1.3.73": [
         "Fixed the changelog display in the plugin details screen."
       ],
-      "1.3.72": ["..."]
+      "1.3.72": [
+        "Image Checker – detect unused/used images",
+        "Image Alt Text generator",
+        "Metadata generator for posts, pages, custom post types & terms",
+        "Template scanner",
+        "Elementor forms summary, status & settings with bulk updating",
+        "Theme setup including updating theme screenshot",
+        "Spelling & Grammar checker"
+      ]
     }
   }
 }
